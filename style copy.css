@@ -1,0 +1,115 @@
+* {
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+.list-group-item{
+    list-style: none;
+}
+
+/*social icons design*/
+
+.social-icon :hover {
+    transform: translateY(-2px);
+    color: grey;
+
+}
+
+.social-icon{
+    margin: 20px 10px;
+    color: black;
+    align-content: center;
+}
+
+
+body {
+    background-image: url("./images/bg-final.png");
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+
+}
+
+.jumbotron {
+    width: 80%;
+    align-content: center;
+    margin: auto;
+    background-color: #E3C8D0;
+    opacity: 80%;
+
+}
+
+.jumbotron h1 {
+    color: black;
+    font-family: 'Sacramento',
+        cursive;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.jumbotron h2 {
+    color: rgb(238, 77, 182);
+    font-size: 20px;
+    text-align: center;
+}
+
+.list-group {
+    color: black;
+    font-size: 20px;
+    opacity: 80%;
+ 
+
+
+}
+
+
+
+.app_img {
+    display: flex;
+    align-content: center;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+
+
+.app_img {
+    display: flex;
+    align-content: center;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+.card-link {
+    color: rgb(238, 77, 182);
+    font-size: 20px;
+}
+
+.a {
+    text-align: center;
+}
+
+#footer {
+    padding: 1% 1%;
+    background-color: rgb(238, 77, 182);
+    align-content: center;
+    opacity: 80%;
+    text-align: center;
+}
+
+
+
+
+hr{
+    color:  rgb(184, 181, 181) ;
+  margin: 50px auto; 
+
+}
+#web-projects{
+    padding-top: 2em;
+}
