@@ -25,7 +25,7 @@
 
 
 body {
-    background-image: url("./images/markus-spiske-iar-afB0QQw-unsplash.jpg");
+    background-image: url("./bg.jpg");
     background-repeat: no-repeat;
     /* Do not repeat the image */
     background-size: cover;
@@ -43,8 +43,7 @@ body {
 
 .jumbotron h1 {
     color: black;
-    font-family: 'Sacramento',
-        cursive;
+    font-family: 'Red Hat Display', sans-serif;
     font-size: 50px;
     text-align: center;
 
